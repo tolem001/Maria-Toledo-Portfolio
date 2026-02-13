@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Navigation
 - [Home](index.md)
 - [About Me](about.md)

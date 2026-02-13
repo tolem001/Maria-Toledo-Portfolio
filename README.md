@@ -13,14 +13,13 @@ My portfolio highlights projects involving:
 - Applied analytics in sports, healthcare, manufacturing, and public policy  
 
 You can view the live website here:  
-👉 **https://maria-toledo.github.io/Maria-Toledo-Portfolio/**
+👉 **https://tolem001.github.io/Maria-Toledo-Portfolio/**
 
 ## 📁 Repository Structure
 - `index.md` — Homepage  
 - `about.md` — Background and professional summary  
 - `projects.md` — Detailed project descriptions  
 - `contact.md` — Ways to connect with me  
-- `_config.yml` — GitHub Pages theme configuration  
 
 
 Thanks for visiting my portfolio!

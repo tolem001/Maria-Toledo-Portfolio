@@ -6,8 +6,10 @@
 
 # About Me
 
-I am a data scientist with experience in supervised modeling, clustering, fairness analysis, and the ethical evaluation of machine learning systems. I have hands-on experience with Python, R, Power BI, cloud platforms, and statistical modeling, and I enjoy translating complex analytical findings into clear, actionable insights for stakeholders.
+I recently completed the Master of Data Science program at Bellevue University. I have been a Cast Member at the Disneyland Resort for 35 years, and I currently serve as a System Analyst supporting IBM Maximo. Outside of work, I’m a proud parent of two children—a daughter who is a nurse and a son who is a senior in high school.
 
-My recent work includes biomechanical injury analysis in basketball athletes and a fairness‑focused survival prediction model using the Titanic dataset. I am passionate about responsible AI, transparency, and building models that are not only accurate but equitable.
+I enjoy working in data science and have experience in supervised modeling, clustering, fairness analysis, and the ethical evaluation of machine learning systems. I have hands-on experience with Python, R, Power BI, cloud platforms, and statistical modeling, and I especially enjoy transforming complex technical data into clear visualizations that help stakeholders make informed decisions.
+
+
 
 

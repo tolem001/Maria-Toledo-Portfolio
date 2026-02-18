@@ -74,10 +74,10 @@ Analyzed athlete movement and performance data to determine whether measurable p
 
 ---
 
-## 🚢 DSC680 – Fairness‑Focused Survival Prediction (Titanic Dataset)
-**Goal:** Build a survival prediction model with fairness evaluation.  
-**Summary:**  
-Developed a machine learning model to predict passenger survival and assessed fairness metrics across demographic groups. Explored mitigation strategies to improve equity while maintaining predictive performance.
+## 🧠 DSC680 – Migraine Type Classification (Symptom Based Machine Learning)
+**Goal:** Build a machine learning model to classify migraine types using clinical and symptom data. 
+**Summary:**
+Developed a supervised learning model to predict migraine type based on detailed symptom profiles, including pain characteristics, neurological disturbances, and sensory issues. 
 
 ---
 

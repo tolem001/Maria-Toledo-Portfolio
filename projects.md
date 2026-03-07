@@ -79,7 +79,7 @@ Analyzed athlete movement and performance data to determine whether measurable p
 **Summary:**  
 A machine learning model that classifies migraine subtypes using symptom data from 400 patients. I performed exploratory data analysis, handled class imbalance, and compared logistic regression with a Random Forest classifier. The Random Forest achieved 90% accuracy and identified visual symptoms, age, and intensity as key predictors.  
 
-[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfilio/tree/main/Projects/Migraine-Classification)
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/Migraine-Classification)
 
 ---
 

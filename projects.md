@@ -16,12 +16,16 @@ Here is a selection of my academic and applied data science projects, covering p
 **Summary:**  
 Collected and analyzed 2023 season data for MLB batters and pitchers, comparing salary levels with actual performance statistics. Identified trends and evaluated whether high salaries align with measurable on‑field productivity.
 
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/MLB-Salary-Performance)
+
 ---
 
 ## 🗳️ Understanding Nonvoters in the United States
 **Goal:** Investigate why many Americans choose not to vote.  
 **Summary:**  
 Analyzed demographic, social, and structural factors contributing to voter apathy. The project highlights barriers to participation and proposes insights to improve engagement and public trust in the electoral process.
+
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/Nonvoters-Analysis)
 
 ---
 
@@ -30,12 +34,16 @@ Analyzed demographic, social, and structural factors contributing to voter apath
 **Summary:**  
 Developed predictive models to determine which diabetic patients are at higher risk of hospital readmission. The analysis supports proactive interventions, cost reduction, and improved patient outcomes through targeted care strategies.
 
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/Diabetic-Readmission)
+
 ---
 
 ## 📺 Netflix Programming Strategy Change Proposal
 **Goal:** Recommend a shift in Netflix’s content strategy.  
 **Summary:**  
 Using viewership data, this proposal argues that Netflix should prioritize TV content over film. Visualizations consistently show higher engagement for TV series, including non‑English titles, supporting a strategic realignment.
+
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/Netflix-Strategy)
 
 ---
 
@@ -44,12 +52,16 @@ Using viewership data, this proposal argues that Netflix should prioritize TV co
 **Summary:**  
 Analyzed visitation patterns to the White House and found significant increases during midterm years. The project highlights how political activity intensifies during these cycles, reflecting the broader democratic impact of midterm elections.
 
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/Midterm-Elections)
+
 ---
 
 ## 🚗 DSC640 – Addressing Milwaukee’s Auto Theft Epidemic
 **Goal:** Provide data‑driven recommendations to reduce auto theft.  
 **Summary:**  
 Examined rising car theft trends in Milwaukee and proposed proactive policy measures for city leadership. The project emphasizes prevention strategies and resource allocation to address the growing public safety concern.
+
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/Milwaukee-Auto-Theft)
 
 ---
 
@@ -58,6 +70,8 @@ Examined rising car theft trends in Milwaukee and proposed proactive policy meas
 **Summary:**  
 Analyzed nine years of complaint data and recommended three targeted policy changes for the Department of Homeland Security. The proposal focuses on improving transparency, accountability, and traveler protections.
 
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/TSA-Civil-Liberties)
+
 ---
 
 ## 🏭 Manufacturing Defects Analysis
@@ -65,12 +79,16 @@ Analyzed nine years of complaint data and recommended three targeted policy chan
 **Summary:**  
 Built models to identify patterns in manufacturing defects and predict which issues pose moderate or critical safety risks. Recommendations help organizations optimize inspections and reduce hazards for employees and customers.
 
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/Manufacturing-Defects)
+
 ---
 
 ## 🏀 Biomechanical Analysis of Basketball Injuries
 **Goal:** Identify biomechanical patterns linked to injury risk.  
 **Summary:**  
 Analyzed athlete movement and performance data to determine whether measurable patterns can predict injury likelihood, recurrence, or severity. Findings support data‑driven decisions in training, rehabilitation, and player management.
+
+[View Code on GitHub](https://github.com/tolem001/Maria-Toledo-Portfolio/tree/main/Projects/Basketball-Injuries)
 
 ---
 
